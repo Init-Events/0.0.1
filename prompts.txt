@@ -1,0 +1,6 @@
+positive=centered shot, wide angle, full body, dd, fantasy, highly detailed, digital painting, artstation, smooth, sharp focus, digital art
+negative=missing legs, missing feet, worst quality, low quality, jpeg artifacts, signature, logo, watermark, text, realistic, hyper-realistic, ultra-detailed, RAW photo
+
+positive=8k, RAW photo, best quality, masterpiece, highly detailed building, realistic style, best quality, photo-realistic, uhd, DSLR, soft lighting, high quality, film grain, Fujifilm XT3, 85mm, f1.8, hyperrealistic, super detailed, intricate, high dynamic range
+negative=soft line, lowres, text, sketch, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, blurry, ugly, logo, pixelated, oversharpened, high contrast
+
